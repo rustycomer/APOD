@@ -1,0 +1,15 @@
+/* Custom styles */
+
+body {
+    color:  #757575;
+
+}
+
+a , .sub-title-custom {
+    color: #CC0000;
+}
+
+a:hover {
+    color: #000000;
+}
+
